@@ -1,4 +1,5 @@
-## Function to Cache the input matrix and provide inverse of the matrix using solve function
+## Function to Cache the input matrix and provide inverse 
+of the matrix using solve function
 
 
 ## First function where an input matrix is received
